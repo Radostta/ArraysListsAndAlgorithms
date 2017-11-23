@@ -1,0 +1,6 @@
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\SortNumbers\bin\Debug\SortNumbers.exe.config
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\SortNumbers\bin\Debug\SortNumbers.exe
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\SortNumbers\bin\Debug\SortNumbers.pdb
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\SortNumbers\obj\Debug\SortNumbers.csprojResolveAssemblyReference.cache
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\SortNumbers\obj\Debug\SortNumbers.exe
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\SortNumbers\obj\Debug\SortNumbers.pdb

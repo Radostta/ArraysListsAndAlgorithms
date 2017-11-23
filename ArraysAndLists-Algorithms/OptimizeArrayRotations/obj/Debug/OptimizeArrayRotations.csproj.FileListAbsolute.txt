@@ -1,0 +1,5 @@
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OptimizeArrayRotations\bin\Debug\OptimizeArrayRotations.exe.config
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OptimizeArrayRotations\bin\Debug\OptimizeArrayRotations.exe
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OptimizeArrayRotations\bin\Debug\OptimizeArrayRotations.pdb
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OptimizeArrayRotations\obj\Debug\OptimizeArrayRotations.exe
+C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OptimizeArrayRotations\obj\Debug\OptimizeArrayRotations.pdb
