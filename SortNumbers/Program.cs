@@ -13,7 +13,7 @@ namespace SortNumbers
             var numbers = Console.ReadLine().Split().Select(double.Parse).ToList();
 
             numbers.Sort();
-            //numbers.Sort((a, b) => (a - b)); //sort by discending
+            //numbers.Sort((a, b) => (a - b)); //sort by descending
 
             Console.WriteLine(string.Join(" <= ", numbers));
         }
