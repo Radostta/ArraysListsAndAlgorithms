@@ -1,5 +1,0 @@
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\LargestNElements\bin\Debug\LargestNElements.exe.config
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\LargestNElements\bin\Debug\LargestNElements.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\LargestNElements\bin\Debug\LargestNElements.pdb
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\LargestNElements\obj\Debug\LargestNElements.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\LargestNElements\obj\Debug\LargestNElements.pdb

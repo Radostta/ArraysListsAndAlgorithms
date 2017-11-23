@@ -1,6 +1,0 @@
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe.config
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OddNumbersAtOddPositions\bin\Debug\OddNumbersAtOddPositions.pdb
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.csprojResolveAssemblyReference.cache
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\OddNumbersAtOddPositions\obj\Debug\OddNumbersAtOddPositions.pdb

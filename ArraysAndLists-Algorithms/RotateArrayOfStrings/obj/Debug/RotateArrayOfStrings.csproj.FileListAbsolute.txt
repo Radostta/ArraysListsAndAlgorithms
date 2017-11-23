@@ -1,6 +1,0 @@
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe.config
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\RotateArrayOfStrings\bin\Debug\RotateArrayOfStrings.pdb
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.csprojResolveAssemblyReference.cache
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\RotateArrayOfStrings\obj\Debug\RotateArrayOfStrings.pdb

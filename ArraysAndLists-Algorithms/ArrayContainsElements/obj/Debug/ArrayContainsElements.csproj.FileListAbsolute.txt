@@ -1,6 +1,0 @@
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\ArrayContainsElements\bin\Debug\ArrayContainsElements.exe.config
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\ArrayContainsElements\bin\Debug\ArrayContainsElements.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\ArrayContainsElements\bin\Debug\ArrayContainsElements.pdb
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\ArrayContainsElements\obj\Debug\ArrayContainsElements.exe
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\ArrayContainsElements\obj\Debug\ArrayContainsElements.pdb
-C:\Users\rcvet\Radost Computer\Softuni Repos\ArraysListsAndAlgorithms\ArraysAndLists-Algorithms\ArrayContainsElements\obj\Debug\ArrayContainsElements.csprojResolveAssemblyReference.cache
