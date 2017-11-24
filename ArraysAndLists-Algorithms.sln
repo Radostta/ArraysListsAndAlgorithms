@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNElements", "Largest
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JumpAround", "JumpAround\JumpAround.csproj", "{B8F2E031-5969-46D9-8D75-000FD09DBD21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecodeRadioFrequences", "DecodeRadioFrequences\DecodeRadioFrequences.csproj", "{3E879E4F-DFD8-42B0-A8EC-57A17CF7156A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{B8F2E031-5969-46D9-8D75-000FD09DBD21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8F2E031-5969-46D9-8D75-000FD09DBD21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8F2E031-5969-46D9-8D75-000FD09DBD21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E879E4F-DFD8-42B0-A8EC-57A17CF7156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E879E4F-DFD8-42B0-A8EC-57A17CF7156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E879E4F-DFD8-42B0-A8EC-57A17CF7156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E879E4F-DFD8-42B0-A8EC-57A17CF7156A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
