@@ -33,7 +33,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandInterpreter", "Comma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entertrain", "Entertrain\Entertrain.csproj", "{72ACA77A-5271-410D-B407-6E7CE10F5A09}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HornetComm", "HornetComm.\HornetComm.csproj", "{B8EF9E63-BF26-4E4E-A46E-C88E005C964D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HornetComm", "HornetComm\HornetComm.csproj", "{B8EF9E63-BF26-4E4E-A46E-C88E005C964D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ladybugs", "Ladybugs\Ladybugs.csproj", "{CE271961-4451-4C61-A38F-AC9D3B0A2E8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoftUniKaraoke", "SoftUniKaraoke\SoftUniKaraoke.csproj", "{F0F1CDEF-AAAE-4397-A81C-8B1A938DB053}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyGram", "SpyGram\SpyGram.csproj", "{97B6A77C-AF04-483C-B6F4-1A3F4E5D9786}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +111,18 @@ Global
 		{B8EF9E63-BF26-4E4E-A46E-C88E005C964D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EF9E63-BF26-4E4E-A46E-C88E005C964D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EF9E63-BF26-4E4E-A46E-C88E005C964D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE271961-4451-4C61-A38F-AC9D3B0A2E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE271961-4451-4C61-A38F-AC9D3B0A2E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE271961-4451-4C61-A38F-AC9D3B0A2E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE271961-4451-4C61-A38F-AC9D3B0A2E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0F1CDEF-AAAE-4397-A81C-8B1A938DB053}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0F1CDEF-AAAE-4397-A81C-8B1A938DB053}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0F1CDEF-AAAE-4397-A81C-8B1A938DB053}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0F1CDEF-AAAE-4397-A81C-8B1A938DB053}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B6A77C-AF04-483C-B6F4-1A3F4E5D9786}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B6A77C-AF04-483C-B6F4-1A3F4E5D9786}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B6A77C-AF04-483C-B6F4-1A3F4E5D9786}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B6A77C-AF04-483C-B6F4-1A3F4E5D9786}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
