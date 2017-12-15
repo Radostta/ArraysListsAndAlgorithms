@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpyGram", "SpyGram\SpyGram.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WormIpsum", "WormIpsum\WormIpsum.csproj", "{DBF96081-7619-4DCE-B63D-57A84AC37AAA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rainer", "..\..\..\Desktop\Programming Fundamentals Extended November 2017\ProgrFundamentalsExam10122017\Rainer\Rainer.csproj", "{A903988F-F652-4ACB-BBE7-E218BE2068BA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{DBF96081-7619-4DCE-B63D-57A84AC37AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBF96081-7619-4DCE-B63D-57A84AC37AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBF96081-7619-4DCE-B63D-57A84AC37AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A903988F-F652-4ACB-BBE7-E218BE2068BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A903988F-F652-4ACB-BBE7-E218BE2068BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A903988F-F652-4ACB-BBE7-E218BE2068BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A903988F-F652-4ACB-BBE7-E218BE2068BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
